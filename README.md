@@ -114,7 +114,7 @@ npm start
 ![Selecting a dress](./screenshots/ss-7.png)
 ![Virtual trial step 3](./screenshots/ss-8.png)
 ![Another example of virtual trial](./screenshots/ss-9.png)
-![Asking for a mobile phone with specific properties](./screenshots/ss-10.gif)
+
 
 ## Tech Stack
 
