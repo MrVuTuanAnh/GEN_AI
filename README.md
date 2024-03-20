@@ -132,7 +132,7 @@ npm start
 
 ## File structure
 
-- Presentation has been attached as `GENAI.pdf`
+- Presentation has been attached as `GENAI.pdf` or 'GENAI.pptx'
 - Screenshots have been attached in `screenshots/`
 - Training files have been attached as `training-files/`
 - Server code has been attached in `services/api/`
