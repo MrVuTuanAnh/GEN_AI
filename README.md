@@ -104,7 +104,7 @@ npm start
 4. The web app would start running at http://localhost:3000
 ## Demo video
 
-- Available at [https://youtu.be/o7hb1808GUE]
+- Available at [[https://youtu.be/o7hb1808GUE](https://www.youtube.com/watch?v=o7hb1808GUE)]
 ## Screenshots
 
 ![Home Page](./screenshots/ss-1.png)
@@ -113,7 +113,6 @@ npm start
 ![Virtual trial step 2](./screenshots/ss-6.png)
 ![Selecting a dress](./screenshots/ss-7.png)
 ![Virtual trial step 3](./screenshots/ss-8.png)
-![Another example of virtual trial](./screenshots/ss-9.png)
 
 
 ## Tech Stack
